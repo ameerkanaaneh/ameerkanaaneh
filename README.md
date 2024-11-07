@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ameer Ahmed a Full-Stack Web Developer | Computer Science Student
+- 👋 Hi, I’m Ameer Andri a Full-Stack Web Developer | Computer Science Student
 - 👀 Im ineterested in Full-Stack Developement
 - 💞️ I’m looking to collaborate on projects that are interesting!
 - 📫 How to reach me: [ameer.andri2003@gmail.com] | [+972524455680] | [https://www.linkedin.com/in/ameer-ahmed-70a500191/]
